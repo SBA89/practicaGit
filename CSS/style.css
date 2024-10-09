@@ -1,4 +1,8 @@
 h1{
-    color: rgba(205, 10, 10, 0.51);
+    color: #23FF;
     font-size: 50px;
+}
+
+h1 :hover{
+    color: #344FFF
 }
